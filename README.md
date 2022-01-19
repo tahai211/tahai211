@@ -150,7 +150,7 @@ namespace TXH
 
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="tahai211 :: Profile Stats" /></p>
+<p align="center"><img src="" alt="tahai211 :: Profile Stats" /></p>
 
 ## <p align="center">Repository pin 📌</p>
 
