@@ -19,7 +19,7 @@ namespace TXH
             string Age = "2001";
             string Gender = "Male";
             string Address = "PThọThọ, Việt Nam";
-            string University = "Trường Học Viện Kĩ Thuật Mật Mã";
+            string University = "Học Viện Kĩ Thuật Mật Mã";
             string Skills = "C,Java";
             string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
         }
