@@ -146,7 +146,7 @@ namespace TXH
 
 ## <p align="center">Top langs :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="tahai211 :: Top Langs" /></p>
+<p align="center"><img src="" alt="tahai211 :: Top Langs" /></p>
 
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
