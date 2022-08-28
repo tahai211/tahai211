@@ -18,9 +18,9 @@ namespace TXH
             string Name = "Tạ Xuân Hải";
             string Age = "2001";
             string Gender = "Male";
-            string Address = "PThọThọ, Việt Nam";
+            string Address = "Phú Thọ, Việt Nam";
             string University = "Học Viện Kĩ Thuật Mật Mã";
-            string Skills = "C,Java";
+            string Skills = "C,C++,Java,";
             string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
         }
     }
