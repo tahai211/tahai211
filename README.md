@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/">
-	<img src="https://tiengdong.com/wp-content/uploads/www_tiengdong_com-meme-meo-cam-dao.jpg" width = "200" alt="TNT">
+	<img src="" width = "200" alt="TNT">
 	</a>
 </p>
 
