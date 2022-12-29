@@ -20,7 +20,7 @@ namespace TXH
             string Gender = "Male";
             string Address = "Phú Thọ, Việt Nam";
             string University = "Học Viện Kĩ Thuật Mật Mã";
-            string Skills = "C,C++,Java,";
+            string Skills = "C,C++,C#,Java,Python,SQL";
             string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
         }
     }
